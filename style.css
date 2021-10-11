@@ -1,12 +1,26 @@
 body{
-    background-color: hotpink; 
+    background-image: url(./b.PNG);
+    background-repeat: no-repeat;
+    background-size: 100%;
     text-align: center;
 }
-
 div{
-    background-color: chartreuse;
-    width: 500px;
-    margin: auto;
-    border: 10px solid black;
-    border-radius: 20px;
+    background-color: darkgray;
+    opacity: 0.8;
+    margin-top: 50px;
+}
+label{
+    font-size: 25px;
+    color: darkblue;
+}
+h1{
+    font-size: 40px;
+}
+h3{
+    font-size: 30px;
+    color: darkgreen;
+}
+span{
+    font-size: 25px;
+    color: darkmagenta;
 }
